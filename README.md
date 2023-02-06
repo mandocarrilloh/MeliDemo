@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
 <div align="center">
 <h3 align="center">Prueba Mercado Libre</h3>
 </div>
@@ -27,7 +26,14 @@ Vista donde se realiza la busqueda y se carga el historial de busqueda
 Vista donde se ve la informacion detalla de un producto.
 
 
-El 
+El aplicativo consta de una base de datos local donde se almanecena las palabra consultados con anteriodad por el usuario.
+Se realiz consumo  de 3 servicio de la API Mercadolibre
+/sites/MCO/search?q={search}
+/items/{itemId}
+/items/{itemId}/description
+
+La vista donde se vizualiza el listado de sugeriencias fue realizada en COMPOSE.
+
 
 ### Arquitectura usada
 * Clean architecture
@@ -35,8 +41,11 @@ El
 
 ### Capas/Modulos
 * Data
+Capa en la cual esta la implementacion de los repositorios (Product y Search) Dto
 * Domain
+Capa en la que estan lo casos de uso para encapsular la logica de datos.
 * App
+Presentacion de datos.
 
 
 ### Librerias usadas
@@ -57,9 +66,5 @@ El
 
 <!-- IMAGES -->
 [product-screenshot]: assets/images/screenshot_1.jpeg
-[product-screenshot]: assets/images/screenshot_2.jpeg
-[product-screenshot]: assets/images/screenshot_3.jpeg
-[product-screenshot]: assets/images/screenshot_4.jpeg
-[product-screenshot]: assets/images/screenshot_5.jpeg
 
 
