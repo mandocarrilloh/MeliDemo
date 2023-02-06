@@ -56,4 +56,8 @@ El
 
 
 <!-- IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets/images/screenshot_1.png
+[product-screenshot]: assets/images/screenshot_2.png
+[product-screenshot]: assets/images/screenshot_3.png
+[product-screenshot]: assets/images/screenshot_4.png
+[product-screenshot]: assets/images/screenshot_5.png
