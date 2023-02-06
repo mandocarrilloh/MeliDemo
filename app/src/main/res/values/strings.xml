@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meli Demo</string>
+    <string name="empty_users">No se encontraron resultados</string>
+
+    <string name="format_money" translatable="false">$%s</string>
+    <string name="copy_installments" translatable="false">en %1$sx %2$s</string>
+    <string name="copy_empty_list">No se encontraron Resultados</string>
+    <string name="copy_available" translatable="false">%1$s disponibles</string>
+    <string name="copy_generic_error">Tenemos inconvenientes, inténtalo mas tarde.</string>
+
+
+    <string name="copy_search">Buscar en Mercado Libre</string>
+    <string name="copy_attributes">Caracteristicas del producto</string>
+    <string name="copy_seller">Información del vendedor</string>
+    <string name="copy_description">Descripción</string>
+
+</resources>

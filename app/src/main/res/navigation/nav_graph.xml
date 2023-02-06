@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_search">
+
+    <fragment
+        android:id="@+id/fragment_search"
+        android:name="com.mandocarrilloh.melidemo.ui.flow.home.views.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search">
+
+        <action
+            android:id="@+id/to_detail"
+            app:destination="@id/fragment_detail" />
+
+        <action
+            android:id="@+id/to_suggestion"
+            app:destination="@id/fragment_suggestion" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_detail"
+        android:name="com.mandocarrilloh.melidemo.ui.flow.home.views.detail.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail">
+
+        <argument
+            android:name="itemId"
+            app:argType="string"
+            app:nullable="false" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_suggestion"
+        android:name="com.mandocarrilloh.melidemo.ui.flow.home.views.suggestion.SuggestionFragment"
+        android:label="fragment_suggestion">
+
+    </fragment>
+
+</navigation>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+    <dimen name="dimen_7dp">7dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_48dp">48dp</dimen>
+    <dimen name="dimen_56dp">56dp</dimen>
+    <dimen name="dimen_64dp">64dp</dimen>
+    <dimen name="dimen_88dp">88dp</dimen>
+    <dimen name="dimen_100dp">100dp</dimen>
+    <dimen name="dimen_120dp">120dp</dimen>
+    <dimen name="dimen_128dp">128dp</dimen>
+    <dimen name="dimen_150dp">150dp</dimen>
+    <dimen name="dimen_180dp">180dp</dimen>
+    <dimen name="dimen_200dp">200dp</dimen>
+    <dimen name="dimen_320dp">320dp</dimen>
+
+    <dimen name="dimen_1sp">1sp</dimen>
+    <dimen name="dimen_8sp">8sp</dimen>
+    <dimen name="dimen_10sp">10sp</dimen>
+    <dimen name="dimen_12sp">12sp</dimen>
+    <dimen name="dimen_13sp">13sp</dimen>
+    <dimen name="dimen_14sp">14sp</dimen>
+    <dimen name="dimen_15sp">15sp</dimen>
+    <dimen name="dimen_16sp">16sp</dimen>
+    <dimen name="dimen_18sp">18sp</dimen>
+    <dimen name="dimen_20sp">20sp</dimen>
+    <dimen name="dimen_22sp">22sp</dimen>
+    <dimen name="dimen_24sp">24sp</dimen>
+    <dimen name="dimen_28sp">28sp</dimen>
+    <dimen name="dimen_32sp">32sp</dimen>
+    <dimen name="dimen_64sp">64sp</dimen>
+    <dimen name="dimen_88sp">88sp</dimen>
+
+    <!--
+    <dimen name="negative_spacing_xxmicro">-0.5dp</dimen>
+    <dimen name="negative_spacing_xmicro">-1dp</dimen>
+    <dimen name="negative_spacing_micro">-3dp</dimen>
+    <dimen name="negative_spacing_small">-6dp</dimen>
+    <dimen name="negative_spacing_medium">-12dp</dimen>
+    <dimen name="negative_spacing_large">-16dp</dimen>
+    <dimen name="negative_spacing_xlarge">-20dp</dimen>
+    <dimen name="negative_spacing_xxlarge">-24dp</dimen>
+    <dimen name="negative_spacing_xxxlarge">-28dp</dimen>
+    <dimen name="negative_spacing_huge">-32dp</dimen>
+    <dimen name="negative_spacing_xhuge">-40dp</dimen>
+    <dimen name="negative_spacing_xxhuge">-48dp</dimen>
+    <dimen name="negative_spacing_xxxhuge">-56dp</dimen>
+    <dimen name="negative_spacing_xxxxhuge">-64dp</dimen>
+
+    <dimen name="font_xmicro">8sp</dimen>
+    <dimen name="font_micro">10sp</dimen>
+    <dimen name="font_small">13sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_xlarge">22sp</dimen>
+    <dimen name="font_xxlarge">26sp</dimen>
+    <dimen name="font_xxxlarge">30sp</dimen>
+    <dimen name="font_xxxxlarge">35sp</dimen>
+    <dimen name="font_huge">40sp</dimen>
+    <dimen name="font_xhuge">50sp</dimen>
+    <dimen name="font_xxhuge">60sp</dimen>
+
+    <dimen name="radius_micro">2dp</dimen>
+    <dimen name="radius_small">3dp</dimen>
+    <dimen name="radius_medium">5dp</dimen>
+    <dimen name="radius_large">8dp</dimen>
+    <dimen name="radius_huge">15dp</dimen>
+
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="toolbar_elevation">5dp</dimen>
+
+    <dimen name="register_options_height">200dp</dimen>
+    <dimen name="height_option">80dp</dimen> -->
+</resources>
