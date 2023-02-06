@@ -16,10 +16,18 @@ App disenada como prueba tecnica:
 ##Objetivo
 App diseñada como prueba tecnica, con la finalidad de consumir servicios API de mercadolibre
 
-La APP cuenta con dos pantallas.
-* Home: Vista para realizar la busqueda y listar los resultados
-* Detalle de un producto: Vista donde se ve la informacion detalla de un producto.
+La APP cuenta con tres pantallas.
+* Search: 
+Vista para realizar listar los resultados
 
+* Suggestion: (Compose) 
+Vista donde se realiza la busqueda y se carga el historial de busqueda
+
+* Detail: 
+Vista donde se ve la informacion detalla de un producto.
+
+
+El 
 
 ### Arquitectura usada
 * Clean architecture
@@ -42,6 +50,7 @@ La APP cuenta con dos pantallas.
 * Chucker
 * Groupie
 * Leakcanary
+* Compose
 
 <!-- GETTING STARTED -->
 
